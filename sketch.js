@@ -10,7 +10,7 @@ var rand;
 var night;
 var Thunder, thunder1,thunder2,thunder3,thunder4;
 var thunderCreatedFrame = 0;
-
+var shhrey
 
 function preload(){
    night = loadImage("images/rainynight.jpg");
